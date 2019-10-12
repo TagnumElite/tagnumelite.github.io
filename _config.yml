@@ -33,13 +33,24 @@ url: "https://tagnumelite.com" # the base hostname & protocol for your site
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url: https://twitter.com/TagnumElite
 facebook_url:
-googleplus_url:
+discord_url: https://discord.gg/P96kg3A
 instagram_url:
-linkedin_url: 
+linkedin_url:
 github_url: https://github.com/TagnumElite
-pinterest_url:
+steam_url: https://steamcommunity.com/id/TagnumElite/
 slack_url:
 dribbble_url:
+npm_url: https://www.npmjs.com/~tagnumelite
+pypi_url: https://pypi.org/user/TagnumElite/
+stack_exchange_url: https://stackexchange.com/users/4947564/tagnumelite
+spotify_url: https://open.spotify.com/user/k9aryty1rpng9fexrxejs43fi?si=N27ahQlGSwejC0_7oWCmAA
+strava_url:
+twitch_url: https://www.twitch.tv/tagnumelite
+tumblr_url:
+xbox_url:
+playstation_url: https://my.playstation.com/profile/TagnumElite
+digital_ocean_url: https://m.do.co/c/da7c1e7ccc7a
+youtube_url: https://www.youtube.com/channel/UChphbk4d1OvPilYwRnj_Z5w
 
 # Google Analytics Tracking ID goes here:
 google_analytics: UA-49499868-5
