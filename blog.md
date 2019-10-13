@@ -2,6 +2,6 @@
 layout: blog
 title: Blog
 permalink: /blog/
-icon: fa-pencil-alt
-order: 2
+icon: fa-book-open
+order: 3
 ---
