@@ -12,8 +12,8 @@ I love games, especially the mechanical/logical/technical ones.
 
 I enjoy a vast genre of games, but my favourites are
 
-- [RPG](#RPG)
-- [Sandbox](#Sandbox)
+- [RPG](#rpg)
+- [Sandbox](#sandbox)
 - Simulation
 - Building
 - Open World
@@ -21,7 +21,7 @@ I enjoy a vast genre of games, but my favourites are
 - Parkour
 - Destruction
 - Kojima (His games deserves their own genre)
-- [Action](#Action)
+- [Action](#action)
 - Fantasy
 - Sci-Fi
 - Adventure
