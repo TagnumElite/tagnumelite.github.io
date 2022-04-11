@@ -1,7 +1,11 @@
 ---
 title: Modpack Ideas
-author: TagnumElite
-layout: post
+date: 2022-04-18T15:34:30-04:00
+categories:
+  - blog
+tags:
+  - Jekyll
+  - update
 ---
 I have had many ideas for modpacks. I will write them here when I have time.
 
