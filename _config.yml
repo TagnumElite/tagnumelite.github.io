@@ -175,3 +175,12 @@ analytics:
     tracking_id: "UA-49499868-5"
     anonymize_ip: false # default
 
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id              : "MDEwOlJlcG9zaXRvcnkyMTIwMjMyODY="
+    category_name        : "Comments"
+    category_id          : "DIC_kwDODKM39s4COhbM"
+    discussion_term      : "pathname"
+    reactions_enabled    : '1'
+    theme                : "dark"
