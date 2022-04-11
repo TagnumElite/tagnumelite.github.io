@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   my projects ands thoughts.
 twitter_username: TagnumElite
 github_username: TagnumElite
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 logo: "/assets/images/80x80.png"
 search: true
 
@@ -109,6 +109,33 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TagnumElite"
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/XHCBxPA"
+    - label: "Steam"
+      icon: "fab fa-fw fa-steam"
+      url: "https://steamcommunity.com/id/TagnumElite/"
+    - label: "NPM"
+      icon: "fab fa-fw fa-npm"
+      url: "https://www.npmjs.com/~tagnumelite"
+    - label: "PyPi"
+      icon: "fab fa-fw fa-python"
+      url: "https://pypi.org/user/TagnumElite/"
+    - label: "Stack Exchange"
+      icon: "fab fa-fw fa-stack-exchange"
+      url: "https://stackexchange.com/users/4947564/tagnumelite"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/tagnumelite"
+    - label: "PlayStation"
+      icon: "fab fa-fw fa-playstation"
+      url: "https://my.playstation.com/profile/TagnumElite"
+    - label: "Digital Ocean"
+      icon: "fab fa-fw fa-digital-ocean"
+      url: "https://m.do.co/c/da7c1e7ccc7a"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UChphbk4d1OvPilYwRnj_Z5w"
 
 defaults:
   # _posts
