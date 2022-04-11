@@ -14,13 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TagnumElite
+subtitle: Psuedo-Random Coder
 email: me@tagnumelite.com
 description: >- # this means to ignore newlines until "baseurl:"
   A website for me, TagnumElite, to showcase, discuss and explore
   my projects ands thoughts.
 twitter_username: TagnumElite
 github_username: TagnumElite
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
+logo: "/assets/images/80x80.png"
 search: true
 
 # Build settings
@@ -134,3 +136,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+social:
+  name: TagnumElite
+  links:
+    - "https://twitter.com/TagnumElite"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-49499868-5"
+    anonymize_ip: false # default
+
