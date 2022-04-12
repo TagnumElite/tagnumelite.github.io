@@ -1,11 +1,7 @@
 ---
 title: ColonyBlock
 date: 2022-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+categories: blog
 ---
 A remix on the [StoneBlock] modpack where instead of AE/RS autocrafting, you will have to use [Minecolonies] citizens to the autocrafting.
 

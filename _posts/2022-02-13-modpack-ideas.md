@@ -1,11 +1,7 @@
 ---
 title: Modpack Ideas
 date: 2022-04-18T15:34:30-04:00
-categories:
-  - blog
-tags:
-  - Jekyll
-  - update
+categories: blog
 ---
 I have had many ideas for modpacks. I will write them here when I have time.
 
