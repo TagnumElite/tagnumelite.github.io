@@ -1,64 +1,19 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+import { dev } from '$app/environment';
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: TagnumElite
-subtitle: Psuedo-Random Coder
-email: me@tagnumelite.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A website for me, TagnumElite, to showcase, discuss and explore
-  my projects ands thoughts.
-twitter_username: TagnumElite
-github_username: TagnumElite
-minimal_mistakes_skin: "dark"
-logo: "/assets/images/80x80.png"
-search: true
+export const title = 'TagnumElite';
+export const subtitle = 'Psuedo-Random Coder';
+export const description = `A website for me, TagnumElite, to showcase, discuss and explore
+  my projects ands thoughts.`;
+export const email = 'me@tagnumelite.com';
+export const search = true;
 
-# Build settings
-markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: Africa/Johannesburg # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+export const url = dev ? 'localhost:5173' : 'https://tagnumelite.com';
 
-include:
-  - _pages
+// Socials
+export const github_username = "TagnumElite";
+export const twitter_username = "TagnumElite";
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  - old/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-
+/* OLD JEKYLL CONFIG OPTIONS
 author:
   name   : "TagnumElite"
   avatar : "/assets/images/avatar.jpg"
@@ -166,3 +121,4 @@ comments:
     discussion_term      : "pathname"
     reactions_enabled    : '1'
     theme                : "dark"
+*/
